@@ -1,0 +1,13 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  font-size: 40px;
+}
+
+.chart {
+    margin-top: 50px;
+    width: 1000px;
+    height: 1000px;
+    margin: 50px auto ;
+  }
